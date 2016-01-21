@@ -1,0 +1,9 @@
+E:\anime Program\Read feed\Read feed\bin\Debug\Read feed.exe.config
+E:\anime Program\Read feed\Read feed\bin\Debug\Read feed.exe
+E:\anime Program\Read feed\Read feed\bin\Debug\Read feed.pdb
+E:\anime Program\Read feed\Read feed\obj\Debug\Read feed.csprojResolveAssemblyReference.cache
+E:\anime Program\Read feed\Read feed\obj\Debug\Read_feed.Form1.resources
+E:\anime Program\Read feed\Read feed\obj\Debug\Read_feed.Properties.Resources.resources
+E:\anime Program\Read feed\Read feed\obj\Debug\Read feed.csproj.GenerateResource.Cache
+E:\anime Program\Read feed\Read feed\obj\Debug\Read feed.exe
+E:\anime Program\Read feed\Read feed\obj\Debug\Read feed.pdb
